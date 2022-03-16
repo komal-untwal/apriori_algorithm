@@ -1,0 +1,20 @@
+wine,clocks,donuts,Wall prints
+cooking oils,spices,tea,clocks
+cooking oils,tea,milk
+printers,Wall prints,tea
+MP3 players,paper shredders,laptops,Vases
+MP3 players,Novelty Makeup,milk,coffee
+cell phones,Removals,milk,flatscreen TVs
+wine,television sets,DVD players
+Perfumes,television sets,sugar,wine
+television sets,Wall prints,clocks,flatscreen TVs
+DVD players,Wall prints,Removals
+wine,Removals,Vases
+Perfumes,television sets,DVD players,Novelty Makeup
+printers,paper shredders,Wall prints,Vases
+Novelty Makeup,Vases,tea,coffee
+Wall prints,Candles,laptops,Vases
+printers,DVD players,cooking oils,Vases
+wine,clocks,Candles,donuts
+Table lamps,paper shredders,Rugs,Dyes
+cell phones,donuts,Vases
