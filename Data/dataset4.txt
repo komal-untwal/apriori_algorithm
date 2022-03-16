@@ -1,0 +1,20 @@
+Removals,Table lamps,flour,Cushions,cooking oils,cell phones,Dyes,Rugs,television sets,milk
+Wall prints,Removals,donuts,DVD players,Novelty Makeup,laptops,video recorders,cooking oils,sugar,bread
+MP3 players,Removals,Cushions,laptops,Rugs,coffee,printers,television sets,clocks
+MP3 players,Removals,paper shredders,Novelty Makeup,laptops,Vases,Perfumes,cooking oils,Dyes,coffee,television sets
+Candles,Removals,Table lamps,Novelty Makeup,Cushions,video recorders,Perfumes,cell phones,sugar,bread
+wine,bread,Wall prints,flatscreen TVs,DVD players,paper shredders,video recorders,cooking oils,sugar,Rugs,printers
+MP3 players,Removals,Candles,flour,Novelty Makeup,laptops,Vases,cooking oils,cell phones,printers,television sets
+wine,Removals,donuts,Candles,cooking oils,tea,Dyes,television sets,clocks
+Removals,flatscreen TVs,Table lamps,Cushions,Novelty Makeup,Vases,cooking oils,Perfumes,spices,coffee
+MP3 players,Wall prints,flatscreen TVs,paper shredders,Novelty Makeup,Cushions,cell phones,tea,Dyes,clocks
+Wall prints,Candles,Novelty Makeup,laptops,video recorders,Vases,cell phones,coffee,clocks
+wine,Wall prints,Candles,flatscreen TVs,DVD players,flour,Vases,Dyes,tea,coffee
+wine,Wall prints,Table lamps,flour,laptops,Vases,cooking oils,spices,sugar,Dyes,coffee
+MP3 players,Wall prints,donuts,flatscreen TVs,Cushions,Novelty Makeup,Perfumes,spices,sugar,Rugs,milk
+wine,Wall prints,donuts,Table lamps,Cushions,video recorders,cooking oils,spices,sugar,milk
+Candles,Removals,flatscreen TVs,Table lamps,DVD players,paper shredders,Novelty Makeup,Vases,Perfumes
+wine,MP3 players,donuts,DVD players,video recorders,cell phones,Perfumes,printers,television sets
+Removals,laptops,video recorders,Perfumes,spices,sugar,Rugs,Dyes,television sets
+Wall prints,Removals,Candles,flour,Novelty Makeup,Vases,cell phones,spices,sugar
+donuts,Removals,Table lamps,flour,DVD players,Cushions,sugar,printers,clocks,milk

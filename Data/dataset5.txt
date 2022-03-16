@@ -1,0 +1,20 @@
+MP3 players,Removals,donuts,Table lamps,paper shredders,video recorders,cooking oils,cell phones,Rugs,printers,television sets
+Wall prints,donuts,paper shredders,Novelty Makeup,laptops,cooking oils,printers,spices,Dyes,tea,coffee,bread
+wine,Wall prints,donuts,Table lamps,DVD players,Cushions,laptops,Novelty Makeup,Perfumes,cooking oils,cell phones,Dyes,Rugs,bread,clocks
+wine,donuts,Candles,flour,Novelty Makeup,Cushions,Vases,Perfumes,tea,Rugs,coffee,printers,television sets
+MP3 players,Removals,donuts,flatscreen TVs,Table lamps,paper shredders,Cushions,spices,sugar,Dyes,Rugs,tea,bread,television sets
+donuts,DVD players,Cushions,Vases,cell phones,Dyes,coffee,clocks,milk
+MP3 players,Wall prints,Candles,DVD players,paper shredders,Vases,cooking oils,bread,television sets,clocks,milk
+wine,MP3 players,donuts,Removals,flatscreen TVs,DVD players,flour,Novelty Makeup,Cushions,Perfumes,printers,Rugs,bread
+Removals,donuts,flour,Novelty Makeup,laptops,Vases,cooking oils,Perfumes,spices,cell phones,printers,milk
+MP3 players,Wall prints,Candles,flatscreen TVs,DVD players,flour,cell phones,Rugs,coffee,printers,milk
+flatscreen TVs,Table lamps,paper shredders,laptops,cell phones,sugar,Rugs,tea,printers,clocks
+wine,Wall prints,donuts,flatscreen TVs,DVD players,flour,Novelty Makeup,Vases,Rugs,bread,television sets,clocks,milk
+Wall prints,donuts,flatscreen TVs,Table lamps,flour,DVD players,paper shredders,Cushions,laptops,video recorders,cell phones,coffee,television sets,milk
+donuts,DVD players,video recorders,cooking oils,Perfumes,spices,Rugs,tea,television sets
+MP3 players,Wall prints,Removals,flour,DVD players,video recorders,Vases,cell phones,Perfumes,tea,Rugs,Dyes,milk
+Wall prints,Candles,Removals,flatscreen TVs,DVD players,paper shredders,Cushions,Perfumes,spices,printers,milk
+wine,MP3 players,Candles,Table lamps,DVD players,paper shredders,Cushions,laptops,video recorders,Perfumes,cell phones,sugar,printers
+MP3 players,bread,Wall prints,flatscreen TVs,DVD players,Cushions,Vases,sugar,tea,printers,clocks
+MP3 players,Wall prints,Candles,Removals,flatscreen TVs,donuts,Novelty Makeup,laptops,cell phones,Perfumes,sugar,Rugs,bread
+Candles,donuts,flatscreen TVs,Removals,Cushions,Vases,cell phones,sugar,tea,Rugs,coffee,television sets,milk
